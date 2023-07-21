@@ -1,2 +1,2 @@
 # Naive_Bayes
-This repository contains my assignment on implementing the Naive Bayes algorithm for a data science course. 
+This repository contains my assignment on implementing the Naive Bayes algorithm for a data science course. The Naive Bayes classifier is a powerful probabilistic algorithm used for various classification tasks. In this project, I have applied the Naive Bayes algorithm to a dataset and provided code, documentation, and results to showcase its effectiveness in handling classification problems. Through this assignment, I gained hands-on experience in applying fundamental data science concepts to real-world datasets.
